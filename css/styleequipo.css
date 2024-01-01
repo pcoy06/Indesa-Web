@@ -1,0 +1,51 @@
+.figure-img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.titulo{
+    font-size: 25px;
+    
+    color: black;
+}
+
+.titulo-figcaption{
+    color:cadetblue;
+    font-size: 40px;
+}
+
+.equipo{
+    text-align: justify;
+    line-height: 2em;
+}
+
+.img-indesa{
+    width: 600px;
+    height: 500px;
+}
+.nuestro-equipo{
+    color:blue;
+}
+
+
+
+@media screen and (max-width: 769px) {
+    .titulo-figcaption{
+        font-size: 25px;
+    }
+    
+}
+/* @media screen and (max-width: 300px)
+{
+    .figure-img{
+        width: 150px;
+        height: 150px;
+        
+
+    } */
+    .titulo{
+        font-size: 15px;
+    }
+    
+
