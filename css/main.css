@@ -147,9 +147,15 @@ h1{
     transition: all .3s ease;
 
 }
-.redes-sociales .twitter{background: #1da1f2;}
+/* .redes-sociales .twitter{background: #1da1f2;} */
 .redes-sociales .instagram{background: #833ab4;}
 .redes-sociales .facebook{background: #3b5998;}
+
+.list-inline-item i .fa fa-facebook {
+    color: #0000ff;
+}
+
+
 
 
 svg{
